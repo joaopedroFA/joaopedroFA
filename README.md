@@ -1,35 +1,28 @@
-# Hello World! I'm João Pedro Albuquerque
+Hello World! I'm João Pedro Albuquerque
 
-**`Electrical Engineering Undergrad (Machine Learning and Embedded Systems)`**
+Electrical Engineering Undergrad (Machine Learning and Embedded Systems)
 
 I’m an Electrical Engineering undergraduate student who blends AI, hardware design, and hands-on creativity to build solutions that matter. I dream of designing and shipping projects from idea to production, bridging circuits and code so that complex systems become usable tools. Through the IEEE student community, I collaborate, teach, and learn, and I love sharing that process in talks and videos. Languages help me exchange ideas across borders and make technical topics accessible to everyone. Step by step, I’m building a human-centered digital world: curious, practical, and inventive.
 
-   <p align="left">
-   <!-- Instagram -->
+<p align="left">
    <a href="https://www.instagram.com/joao_albuquerquebr/">
-      <img alt="instagram" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-   <!-- LinkedIn -->
+      <img alt="instagram" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+   </a>
    <a href="https://www.linkedin.com/in/joão-pedro-freire-de-albuquerque-1a40942a8">
-      <img alt="linkedin" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-   <!-- Email -->
+      <img alt="linkedin" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
    <a href="mailto:joao.albuquerque.704@gmail.com">
-      <img alt="email" title="Send me an email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-
-### 🧰 Languages and Tools
+      <img alt="email" title="Send me an email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+   </a>
+</p>🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+<img align="left" alt="VHDL" width="30px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/vhdl-code-file-black-icon.svg" /><img align="left" alt="VHDL" width="30px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/vhdl-code-file-black-icon.svg" /><br />
 
-
-<br />
-
-#
-
-### 📺 Latest YouTube Videos
+📺 Latest YouTube Videos
 
 <p align="left">
   <a href="https://youtu.be/p1zRnXejnZw">
@@ -40,12 +33,7 @@ I’m an Electrical Engineering undergraduate student who blends AI, hardware de
   </a>
 </p>
 
-
-
-#
-
-
-### 📊 Stats
+📊 Stats
 
 <p align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joaopedrofa&show_icons=true&theme=dracula" style="margin-right:10px;" />
