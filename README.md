@@ -6,9 +6,9 @@ I’m an Electrical Engineering undergraduate student who blends AI, hardware de
 
 <p align="left">
   <!-- Instagram -->
-  <a href="https://www.instagram.com/joao_albuquerquebr/">
+  <!--<a href="https://www.instagram.com/joao_albuquerquebr/">
     <img alt="instagram" title="Follow me on Instagram"
-         src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+         src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />-->
   </a>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/joão-pedro-freire-de-albuquerque-1a40942a8">
