@@ -77,15 +77,3 @@ I’m an Electrical Engineering undergraduate student who blends AI, hardware de
          src="https://ytcards.demolab.com/?id=8qrhV4QaMqg&title=Python+for+Calculating+and+Analyzing+Transmission+Line+and+Wave+Parameters&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=0" />
   </a>
 </p>
-
----
-
-📊 **Stats**
-
-<p align="center">
-  <img alt="GitHub Stats"
-       src="https://github-readme-stats.vercel.app/api?username=joaopedroFA&show_icons=true&theme=dracula"
-       style="margin-right:10px;" />
-  <img alt="GitHub Streak"
-       src="https://streak-stats.demolab.com?user=joaopedroFA&theme=dracula&border_radius=4.5" />
-</p>
