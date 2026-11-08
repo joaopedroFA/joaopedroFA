@@ -5,10 +5,15 @@
 I’m an Electrical Engineering undergraduate student who blends AI, hardware design, and hands-on creativity to build solutions that matter. I dream of designing and shipping projects from idea to production, bridging circuits and code so that complex systems become usable tools. Through the IEEE student community, I collaborate, teach, and learn, and I love sharing that process in talks and videos. Languages help me exchange ideas across borders and make technical topics accessible to everyone. Step by step, I’m building a human-centered digital world: curious, practical, and inventive.
 
 <p align="left">
-  <!-- Download CV -->
-  <a href="https://github.com/joaopedrofa/joaopedrofa/raw/main/cv/CV_Joao_Pedro_Freire_de_Albuquerque_FR.pdf">
-    <img alt="Download my CV (PDF)" title="Download my CV (PDF, in French)"
-         src="https://img.shields.io/badge/Download%20CV-PDF-141E61?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  <!-- Download CV (English) -->
+  <a href="https://github.com/joaopedroFA/joaopedroFA/raw/main/cv/CV_Joao_Pedro_Freire_de_Albuquerque_EN.pdf">
+    <img alt="Download my CV in English (PDF)" title="Download my CV (PDF, English)"
+         src="https://img.shields.io/badge/Download%20CV-EN-141E61?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+  <!-- Download CV (French) -->
+  <a href="https://github.com/joaopedroFA/joaopedroFA/raw/main/cv/CV_Joao_Pedro_Freire_de_Albuquerque_FR.pdf">
+    <img alt="Télécharger mon CV en français (PDF)" title="Download my CV (PDF, French)"
+         src="https://img.shields.io/badge/Download%20CV-FR-141E61?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
   <!-- Instagram
   <a href="https://www.instagram.com/joao_albuquerquebr/">
@@ -32,17 +37,28 @@ I’m an Electrical Engineering undergraduate student who blends AI, hardware de
 
 ### 📄 Curriculum Vitae
 
-<p align="center">
-  <a href="https://github.com/joaopedrofa/joaopedrofa/raw/main/cv/CV_Joao_Pedro_Freire_de_Albuquerque_FR.pdf">
-    <img alt="Preview of my CV" title="Click to open the PDF"
-         src="cv/CV_Joao_Pedro_Freire_de_Albuquerque_FR_preview.png" width="600" />
-  </a>
-</p>
-
-<p align="center">
-  Click the preview to open my CV (PDF, in French) ·
-  <a href="https://github.com/joaopedrofa/joaopedrofa/raw/main/cv/CV_Joao_Pedro_Freire_de_Albuquerque_FR.pdf">⬇️ Download</a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/joaopedroFA/joaopedroFA/raw/main/cv/CV_Joao_Pedro_Freire_de_Albuquerque_EN.pdf">
+        <img alt="CV preview (English)" title="Click to open the PDF"
+             src="cv/CV_Joao_Pedro_Freire_de_Albuquerque_EN_preview.png" width="380" />
+      </a>
+      <br />
+      <b>English</b> ·
+      <a href="https://github.com/joaopedroFA/joaopedroFA/raw/main/cv/CV_Joao_Pedro_Freire_de_Albuquerque_EN.pdf">⬇️ Download</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/joaopedroFA/joaopedroFA/raw/main/cv/CV_Joao_Pedro_Freire_de_Albuquerque_FR.pdf">
+        <img alt="Aperçu du CV (français)" title="Click to open the PDF"
+             src="cv/CV_Joao_Pedro_Freire_de_Albuquerque_FR_preview.png" width="380" />
+      </a>
+      <br />
+      <b>Français</b> ·
+      <a href="https://github.com/joaopedroFA/joaopedroFA/raw/main/cv/CV_Joao_Pedro_Freire_de_Albuquerque_FR.pdf">⬇️ Télécharger</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -84,8 +100,8 @@ I’m an Electrical Engineering undergraduate student who blends AI, hardware de
 
 <p align="center">
   <img alt="GitHub Stats"
-       src="https://github-readme-stats.vercel.app/api?username=joaopedrofa&show_icons=true&theme=dracula"
+       src="https://github-readme-stats.vercel.app/api?username=joaopedroFA&show_icons=true&theme=dracula"
        style="margin-right:10px;" />
   <img alt="GitHub Streak"
-       src="https://streak-stats.demolab.com?user=joaopedrofa&theme=dracula&border_radius=4.5" />
+       src="https://streak-stats.demolab.com?user=joaopedroFA&theme=dracula&border_radius=4.5" />
 </p>
