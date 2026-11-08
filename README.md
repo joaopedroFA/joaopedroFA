@@ -5,22 +5,6 @@
 I’m an Electrical Engineering undergraduate student who blends AI, hardware design, and hands-on creativity to build solutions that matter. I dream of designing and shipping projects from idea to production, bridging circuits and code so that complex systems become usable tools. Through the IEEE student community, I collaborate, teach, and learn, and I love sharing that process in talks and videos. Languages help me exchange ideas across borders and make technical topics accessible to everyone. Step by step, I’m building a human-centered digital world: curious, practical, and inventive.
 
 <p align="left">
-  <!-- Download CV (English) -->
-  <a href="https://github.com/joaopedroFA/joaopedroFA/raw/main/cv/CV_Joao_Pedro_Freire_de_Albuquerque_EN.pdf">
-    <img alt="Download my CV in English (PDF)" title="Download my CV (PDF, English)"
-         src="https://img.shields.io/badge/Download%20CV-EN-141E61?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
-  <!-- Download CV (French) -->
-  <a href="https://github.com/joaopedroFA/joaopedroFA/raw/main/cv/CV_Joao_Pedro_Freire_de_Albuquerque_FR.pdf">
-    <img alt="Télécharger mon CV en français (PDF)" title="Download my CV (PDF, French)"
-         src="https://img.shields.io/badge/Download%20CV-FR-141E61?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
-  <!-- Instagram
-  <a href="https://www.instagram.com/joao_albuquerquebr/">
-    <img alt="instagram" title="Follow me on Instagram"
-         src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  -->
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/joão-pedro-freire-de-albuquerque-1a40942a8">
     <img alt="linkedin" title="Connect with me on LinkedIn"
