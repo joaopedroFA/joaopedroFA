@@ -1,8 +1,8 @@
 # Hello World! I'm João Pedro Albuquerque
 
-**Electrical Engineering Undergrad (Machine Learning and Embedded Systems)**
+**Electrical Engineering Undergrad · Dual-Degree Program (UFRN / Toulouse INP)**
 
-I’m an Electrical Engineering undergraduate student who blends AI, hardware design, and hands-on creativity to build solutions that matter. I dream of designing and shipping projects from idea to production, bridging circuits and code so that complex systems become usable tools. Through the IEEE student community, I collaborate, teach, and learn, and I love sharing that process in talks and videos. Languages help me exchange ideas across borders and make technical topics accessible to everyone. Step by step, I’m building a human-centered digital world: curious, practical, and inventive.
+Electrical engineering student with a strong interest in technologies applied to the aeronautical and aerospace sectors, especially radar engineering, antennas, and artificial intelligence. I’m a communicative and sociable person who wants to work in multidisciplinary, multicultural teams on projects I truly believe in, turning what I study into solutions that benefit society.
 
 <p align="left">
   <!-- LinkedIn -->
