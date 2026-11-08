@@ -1,17 +1,15 @@
 # Hello World! I'm João Pedro Albuquerque
 
 **Electrical Engineering Undergrad (Machine Learning and Embedded Systems)**
-Dual-degree student · UFRN (Brazil) / Toulouse INP (France)
 
 I’m an Electrical Engineering undergraduate student who blends AI, hardware design, and hands-on creativity to build solutions that matter. I dream of designing and shipping projects from idea to production, bridging circuits and code so that complex systems become usable tools. Through the IEEE student community, I collaborate, teach, and learn, and I love sharing that process in talks and videos. Languages help me exchange ideas across borders and make technical topics accessible to everyone. Step by step, I’m building a human-centered digital world: curious, practical, and inventive.
 
 <p align="left">
-  <!-- Instagram
-  <a href="https://www.instagram.com/joao_albuquerquebr/">
+  <!-- Instagram -->
+  <!--<a href="https://www.instagram.com/joao_albuquerquebr/">
     <img alt="instagram" title="Follow me on Instagram"
-         src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+         src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />-->
   </a>
-  -->
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/joão-pedro-freire-de-albuquerque-1a40942a8">
     <img alt="linkedin" title="Connect with me on LinkedIn"
@@ -23,32 +21,6 @@ I’m an Electrical Engineering undergraduate student who blends AI, hardware de
          src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-### 🎓 Education
-
-- **Toulouse INP** — Dual-degree program · *2026 – 2028*
-  Electronic Engineering, 3EA department (Electronics, Electrical Energy and Automation)
-- **Federal University of Rio Grande do Norte (UFRN), Brazil** · *2024 – 2028*
-  Bachelor's in Electrical Engineering
-
----
-
-### 💼 Experience
-
-**IEEE Industrial Electronics Society — UFRN, Brazil**
-*President of the IEEE IES Student Chapter · since Jul 2026*
-
-- Coordinating national and international events
-- Leading the automation and AI teams and organizing short courses
-- Grew the chapter by **95%** (from 19 to 37 members)
-
-**ATLAS Experiment (CERN) — TileCal · UFRN, Brazil**
-*Research Intern · Sep 2024 – Aug 2025*
-
-- Project: *Implementation of Synthesized Logic on FPGA for Convolutional Neural Networks (CNNs) in the TileCal of the ATLAS Experiment*
-- Developed a CNN in Python, synthesized on FPGA with hls4ml, for low-latency classification of hadron collision products in the ATLAS experiment, in order to reduce the effect of pile-up
 
 ---
 
@@ -66,25 +38,6 @@ I’m an Electrical Engineering undergraduate student who blends AI, hardware de
 <img align="left" alt="VHDL" width="30px" style="padding-right:10px;"
      src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/vhdl-code-file-black-icon.png" />
 <br clear="both" />
-
-**Also:** OrCAD · Keysight ADS · Ansys HFSS · hls4ml · FPGA
-
-**Interests:** microstrip antennas · signal processing · AI · applied electromagnetics · defense
-
-**Spoken languages:** Portuguese (native) · English (fluent) · French (intermediate)
-
----
-
-### 📚 Publications
-
-- **NoticIEEEro** — IEEE Region 9 International Magazine
-
----
-
-### 🏆 Awards
-
-- **Potiguar Innovation Challenge in Automation and Electronics** — Quatro Ponto Zero (private company)
-  Designed a smart scale integrated with a web interface for a local food business
 
 ---
 
