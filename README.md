@@ -30,6 +30,22 @@ I’m an Electrical Engineering undergraduate student who blends AI, hardware de
 
 ---
 
+### 📄 Curriculum Vitae
+
+<p align="center">
+  <a href="https://github.com/joaopedrofa/joaopedrofa/raw/main/cv/CV_Joao_Pedro_Freire_de_Albuquerque_FR.pdf">
+    <img alt="Preview of my CV" title="Click to open the PDF"
+         src="cv/CV_Joao_Pedro_Freire_de_Albuquerque_FR_preview.png" width="600" />
+  </a>
+</p>
+
+<p align="center">
+  Click the preview to open my CV (PDF, in French) ·
+  <a href="https://github.com/joaopedrofa/joaopedrofa/raw/main/cv/CV_Joao_Pedro_Freire_de_Albuquerque_FR.pdf">⬇️ Download</a>
+</p>
+
+---
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;"
