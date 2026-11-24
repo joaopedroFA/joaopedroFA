@@ -24,9 +24,9 @@ Electrical engineering student with a strong interest in technologies applied to
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/joaopedroFA/joaopedroFA/raw/main/cv/CV_Joao_Pedro_Freire_de_Albuquerque_EN.pdf">
+      <a href="https://github.com/joaopedroFA/joaopedroFA/raw/main/cv/CV_EN.pdf">
         <img alt="CV preview (English)" title="Click to open the PDF"
-             src="cv/CV_EN.pdf" width="380" />
+             src="cv/CV_EN-1.png" width="380" />
       </a>
       <br />
       <b>English</b> ·
