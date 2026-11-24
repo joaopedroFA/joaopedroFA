@@ -33,7 +33,7 @@ Electrical engineering student with a strong interest in technologies applied to
       <a href="https://github.com/joaopedroFA/joaopedroFA/raw/main/cv/CV_EN.pdf">⬇️ Download</a>
     </td>
     <td align="center">
-      <a href="https://github.com/joaopedroFA/joaopedroFA/raw/main/cv/CV_FR (2).pdf">
+      <a href="https://github.com/joaopedroFA/joaopedroFA/raw/main/cv/CV_FR (2).png">
         <img alt="Aperçu du CV (français)" title="Click to open the PDF"
              src="cv/CV_FR(2)-1.png" width="380" />
       </a>
