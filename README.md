@@ -2,11 +2,11 @@
 
 **Electrical Engineering Undergrad · Dual-Degree Program (UFRN / Toulouse INP)**
 
-Electrical engineering student with a strong interest in technologies applied to the aeronautical and aerospace sectors, especially radar engineering, antennas, and artificial intelligence. I’m a communicative and sociable person who wants to work in multidisciplinary, multicultural teams on projects I truly believe in, turning what I study into solutions that benefit society.
+Electrical engineering student with a strong interest in technologies applied to the aeronautical and aerospace sectors, especially radar engineering, antennas, and artificial intelligence. I'm a communicative and sociable person who wants to work in multidisciplinary, multicultural teams on projects I truly believe in, turning what I study into solutions that benefit society.
 
 <p align="left">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/joão-pedro-freire-de-albuquerque-1a40942a8">
+  <a href="https://www.linkedin.com/in/joao-fa">
     <img alt="linkedin" title="Connect with me on LinkedIn"
          src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -33,13 +33,16 @@ Electrical engineering student with a strong interest in technologies applied to
       <a href="https://github.com/joaopedroFA/joaopedroFA/raw/main/cv/CV_EN.pdf">⬇️ Download</a>
     </td>
     <td align="center">
-      <a href="https://github.com/joaopedroFA/joaopedroFA/raw/main/cv/CV_FR(2)-1.png">
-        <img alt="Aperçu du CV (français)" title="Click to open the PDF"
-             src="cv/CV_FR(2)-1.png" width="380" />
+      <!-- Espaços e parênteses no nome do arquivo precisam de URL encoding:
+           espaço → %20   ( → %28   ) → %29
+           Nome real: "CV_FR (2).pdf" e "CV_FR (2)-1.png"              -->
+      <a href="https://github.com/joaopedroFA/joaopedroFA/raw/main/cv/CV_FR%20%282%29.pdf">
+        <img alt="Aperçu du CV (français)" title="Cliquer pour ouvrir le PDF"
+             src="cv/CV_FR%20%282%29-1.png" width="380" />
       </a>
       <br />
       <b>Français</b> ·
-      <a href="https://github.com/joaopedroFA/joaopedroFA/raw/main/cv/CV_FR(2).pdf">⬇️ Télécharger</a>
+      <a href="https://github.com/joaopedroFA/joaopedroFA/raw/main/cv/CV_FR%20%282%29.pdf">⬇️ Télécharger</a>
     </td>
   </tr>
 </table>
@@ -56,7 +59,6 @@ Electrical engineering student with a strong interest in technologies applied to
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="Arduino" width="30px" style="padding-right:10px;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-<!-- VHDL icon: save the UXWing SVG as assets/vhdl.svg -->
 <img align="left" alt="VHDL" width="30px" style="padding-right:10px;"
      src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/vhdl-code-file-black-icon.png" />
 <br clear="both" />
