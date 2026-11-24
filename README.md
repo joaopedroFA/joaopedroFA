@@ -30,16 +30,16 @@ Electrical engineering student with a strong interest in technologies applied to
       </a>
       <br />
       <b>English</b> ·
-      <a href="https://github.com/joaopedroFA/joaopedroFA/raw/main/cv/CV_Joao_Pedro_Freire_de_Albuquerque_EN.pdf">⬇️ Download</a>
+      <a href="https://github.com/joaopedroFA/joaopedroFA/raw/main/cv/CV_EN.pdf">⬇️ Download</a>
     </td>
     <td align="center">
-      <a href="https://github.com/joaopedroFA/joaopedroFA/raw/main/cv/CV_Joao_Pedro_Freire_de_Albuquerque_FR.pdf">
+      <a href="https://github.com/joaopedroFA/joaopedroFA/raw/main/cv/CV_FR(2).pdf">
         <img alt="Aperçu du CV (français)" title="Click to open the PDF"
-             src="cv/CV_Joao_Pedro_Freire_de_Albuquerque_FR_preview.png" width="380" />
+             src="cv/CV_FR(2)-1.png" width="380" />
       </a>
       <br />
       <b>Français</b> ·
-      <a href="https://github.com/joaopedroFA/joaopedroFA/raw/main/cv/CV_Joao_Pedro_Freire_de_Albuquerque_FR.pdf">⬇️ Télécharger</a>
+      <a href="https://github.com/joaopedroFA/joaopedroFA/raw/main/cv/CV_FR(2).pdf">⬇️ Télécharger</a>
     </td>
   </tr>
 </table>
